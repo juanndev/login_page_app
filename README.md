@@ -2,7 +2,7 @@
 
 A modern and customizable login screen UI project developed with Flutter. This project serves as a template for studies and can be implemented in applications that require an elegant authentication interface.
 
-![App Screenshot](./screenshot.png)
+![App Screenshot](./Screenshot.png)
 
 ## ✨ Features
 
@@ -31,7 +31,7 @@ Follow the steps below to get the project running on your local machine.
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/juanndev/login_page_app.git](https://github.com/juanndev/login_page_app.git)
+    git clone https://github.com/juanndev/login_page_app.git
     ```
 
 2.  **Navigate to the project directory:**
